@@ -1,0 +1,20 @@
+.nav .nav-item .active {
+    border-bottom: 3px solid var(--primary);
+    border-right: 0px;
+  }
+  .nav .nav-item .nav-link {
+    font-size: 14px;
+  }
+  .nav .nav-item .nav-link i {
+    vertical-align: top;
+    padding-right: 5px;
+    font-size: 20px;
+  }
+  .nav {
+    /* max-width: 455px; */
+    max-height: 50px;
+    overflow: hidden;
+  }
+  
+  
+  

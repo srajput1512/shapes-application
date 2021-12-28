@@ -1,0 +1,8 @@
+#canvas {
+    border: 1px solid grey;
+    margin-top: 20px;
+}
+
+.select-icon, .material-icons {
+    vertical-align: middle;
+}

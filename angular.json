@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "shapes-application"
+    }
+  },
+  "defaultProject": "shapes-application",
+  "cli": {
+    "analytics": false
+  }
 }
